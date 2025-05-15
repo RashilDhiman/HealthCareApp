@@ -6,15 +6,6 @@ In today’s fast-paced world, managing health needs and prescriptions can often
 
 **HealthCareApp** was born out of this very need — to empower users with a reliable, intuitive mobile app that simplifies managing medical prescriptions, finding nearby pharmacies, and keeping on top of health reminders, all wrapped in a smooth, animated user experience.
 
----
-
-## 🎥 Demo Video
-
-[![Watch demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](./WhatsApp%20Video%202025-05-15%20at%2012.34.47%20PM.mp4)
-
-*Click the image or [here](./WhatsApp%20Video%202025-05-15%20at%2012.34.47%20PM.mp4) to watch the demo video.*
-
----
 
 ## 🌟 What HealthCareApp Does
 
