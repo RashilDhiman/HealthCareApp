@@ -6,22 +6,7 @@ In today’s fast-paced world, managing health needs and prescriptions can often
 
 **HealthCareApp** was born out of this very need — to empower users with a reliable, intuitive mobile app that simplifies managing medical prescriptions, finding nearby pharmacies, and keeping on top of health reminders, all wrapped in a smooth, animated user experience.
 
----
 
-## 🎥 Demo Video
-
-<video src="https://rashildhiman.github.io/HealthCareApp/demo.mp4" controls width="600" poster="https://rashildhiman.github.io/HealthCareApp/demo-poster.png">
-  Your browser does not support the video tag.
-</video>
-
-> **Note:**  
-> 1. Move your `WhatsApp Video 2025-05-15 at 12.34.47 PM.mp4` into a `docs/demo.mp4` path in your repo.  
-> 2. (Optional) Add a poster image at `docs/demo-poster.png` or adjust the `poster` URL.  
-> 3. Enable GitHub Pages for the `docs/` folder in **Settings → Pages**.  
->
-> After GitHub publishes, the above `<video>` tag will display an inline player right in your README.
-
----
 
 ## 🌟 What HealthCareApp Does
 
