@@ -8,6 +8,8 @@ In today’s fast-paced world, managing health needs and prescriptions can often
 
 ---
 
+[Watch demo video](./WhatsApp%20Video%202025-05-15%20at%2012.34.47%20PM.mp4)
+
 ## 🌟 What HealthCareApp Does
 
 This app isn’t just another healthcare tool — it’s your personal health companion designed with thoughtful features:
