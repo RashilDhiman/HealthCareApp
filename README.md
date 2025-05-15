@@ -6,6 +6,22 @@ In today’s fast-paced world, managing health needs and prescriptions can often
 
 **HealthCareApp** was born out of this very need — to empower users with a reliable, intuitive mobile app that simplifies managing medical prescriptions, finding nearby pharmacies, and keeping on top of health reminders, all wrapped in a smooth, animated user experience.
 
+---
+
+## 🎥 Demo Video
+
+<video src="https://rashildhiman.github.io/HealthCareApp/demo.mp4" controls width="600" poster="https://rashildhiman.github.io/HealthCareApp/demo-poster.png">
+  Your browser does not support the video tag.
+</video>
+
+> **Note:**  
+> 1. Move your `WhatsApp Video 2025-05-15 at 12.34.47 PM.mp4` into a `docs/demo.mp4` path in your repo.  
+> 2. (Optional) Add a poster image at `docs/demo-poster.png` or adjust the `poster` URL.  
+> 3. Enable GitHub Pages for the `docs/` folder in **Settings → Pages**.  
+>
+> After GitHub publishes, the above `<video>` tag will display an inline player right in your README.
+
+---
 
 ## 🌟 What HealthCareApp Does
 
@@ -55,18 +71,18 @@ The backend is designed to provide:
 ## 📅 Development Timeline (May 10 – May 15)
 
 | Date       | Task Description                                                                                       |
-|------------|----------------------------------------------------------------------------------------------------|
-| **May 10** | Design and implement animated splash screen & preloader.                                           |
-| **May 11** | Develop login and registration pages with full backend integration for authentication & tokens.     |
-| **May 12** | Implement Homepage with navigation from login and animation for the screen.                         |
-| **May 13** | Build reusable components and add animations for all screens.                                       |
-| **May 14** | Create Nearby Pharmacy page with prescription upload feature (Cloudinary integration & link upload).|
-| **May 15** | Build reminder tab to display uploaded prescriptions and finalize Reminder page designs.            |
+|------------|--------------------------------------------------------------------------------------------------------|
+| **May 10** | Design and implement animated splash screen & preloader.                                               |
+| **May 11** | Develop login and registration pages with full backend integration for authentication & tokens.        |
+| **May 12** | Implement Homepage with navigation from login and screen animations.                                   |
+| **May 13** | Build reusable components and add animations for all screens.                                          |
+| **May 14** | Create Nearby Pharmacy page with prescription upload (Cloudinary integration & link upload).           |
+| **May 15** | Build reminder tab to display uploaded prescriptions and finalize Reminder page designs.               |
 
 ---
 
 ## 🚀 How to Run This Project
 
-1. Clone the repository  
+1. **Clone** the repository  
    ```bash
-   git clone https://github.com/rashildhiman/HealthCareApp.git
+   git clone https://github.com/RashilDhiman/HealthCareApp.git
